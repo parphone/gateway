@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "activeServer": "https://else-accidents-chicago-attend.trycloudflare.com",
+  "wsGateway": "wss://else-accidents-chicago-attend.trycloudflare.com/client",
+  "licenseServer": "https://gene-beatles-hopefully-formats.trycloudflare.com",
+  "activeTunnel": "https://else-accidents-chicago-attend.trycloudflare.com",
+  "fallbackServers": [
+    "http://2.0.0.52:4000",
+    "http://192.168.0.101:4000"
+  ],
+  "emergencyNotice": null,
+  "updatedAt": "2026-10-02"
+}

@@ -3,10 +3,11 @@
   "activeServer": "https://flowers-resolutions-rpm-isbn.trycloudflare.com",
   "wsGateway": "wss://flowers-resolutions-rpm-isbn.trycloudflare.com/client",
   "licenseServer": "https://flowers-resolutions-rpm-isbn.trycloudflare.com",
-  "activeTunnel": "https://flowers-resolutions-rpm-isbn.trycloudflare.com",
+  "activeTunnel": "https://reception-pads-booking-after.trycloudflare.com",
   "fallbackServers": [
     "http://2.0.0.52:4000",
-    "http://192.168.0.101:4000"
+    "http://192.168.0.101:4000",
+    "https://reception-pads-booking-after.trycloudflare.com"
   ],
   "emergencyNotice": null,
   "updatedAt": "2026-10-06"

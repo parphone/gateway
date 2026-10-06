@@ -1,9 +1,9 @@
 {
   "version": "1.0",
-  "activeServer": "https://216-238-127-241.sslip.io",
-  "wsGateway": "wss://216-238-127-241.sslip.io/client",
-  "licenseServer": "https://216-238-127-241.sslip.io",
-  "activeTunnel": "https://216-238-127-241.sslip.io",
+  "activeServer": "https://flowers-resolutions-rpm-isbn.trycloudflare.com",
+  "wsGateway": "wss://flowers-resolutions-rpm-isbn.trycloudflare.com/client",
+  "licenseServer": "https://flowers-resolutions-rpm-isbn.trycloudflare.com",
+  "activeTunnel": "https://flowers-resolutions-rpm-isbn.trycloudflare.com",
   "fallbackServers": [
     "http://2.0.0.52:4000",
     "http://192.168.0.101:4000"

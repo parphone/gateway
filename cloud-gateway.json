@@ -1,9 +1,9 @@
 {
   "version": "1.0",
-  "activeServer": "https://sky-binary-signing-efficiently.trycloudflare.com",
-  "wsGateway": "wss://sky-binary-signing-efficiently.trycloudflare.com/client",
-  "licenseServer": "https://gene-beatles-hopefully-formats.trycloudflare.com",
-  "activeTunnel": "https://sky-binary-signing-efficiently.trycloudflare.com",
+  "activeServer": "https://216-238-127-241.sslip.io",
+  "wsGateway": "wss://216-238-127-241.sslip.io/client",
+  "licenseServer": "https://216-238-127-241.sslip.io",
+  "activeTunnel": "https://216-238-127-241.sslip.io",
   "fallbackServers": [
     "http://2.0.0.52:4000",
     "http://192.168.0.101:4000"

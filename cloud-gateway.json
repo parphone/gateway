@@ -1,13 +1,13 @@
 {
   "version": "1.0",
-  "activeServer": "https://leo-ada-wanting-liberal.trycloudflare.com",
-  "wsGateway": "wss://leo-ada-wanting-liberal.trycloudflare.com/client",
+  "activeServer": "https://sky-binary-signing-efficiently.trycloudflare.com",
+  "wsGateway": "wss://sky-binary-signing-efficiently.trycloudflare.com/client",
   "licenseServer": "https://gene-beatles-hopefully-formats.trycloudflare.com",
-  "activeTunnel": "https://leo-ada-wanting-liberal.trycloudflare.com",
+  "activeTunnel": "https://sky-binary-signing-efficiently.trycloudflare.com",
   "fallbackServers": [
     "http://2.0.0.52:4000",
     "http://192.168.0.101:4000"
   ],
   "emergencyNotice": null,
-  "updatedAt": "2026-10-02"
+  "updatedAt": "2026-10-06"
 }

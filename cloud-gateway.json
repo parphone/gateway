@@ -3,13 +3,14 @@
   "activeServer": "https://flowers-resolutions-rpm-isbn.trycloudflare.com",
   "wsGateway": "wss://flowers-resolutions-rpm-isbn.trycloudflare.com/client",
   "licenseServer": "https://flowers-resolutions-rpm-isbn.trycloudflare.com",
-  "activeTunnel": "https://relying-munich-cultural-odds.trycloudflare.com",
+  "activeTunnel": "https://manchester-answering-grain-coordinates.trycloudflare.com",
   "fallbackServers": [
     "http://2.0.0.52:4000",
     "http://192.168.0.101:4000",
     "https://reception-pads-booking-after.trycloudflare.com",
     "https://stars-match-rabbit-nations.trycloudflare.com",
-    "https://relying-munich-cultural-odds.trycloudflare.com"
+    "https://relying-munich-cultural-odds.trycloudflare.com",
+    "https://manchester-answering-grain-coordinates.trycloudflare.com"
   ],
   "emergencyNotice": null,
   "updatedAt": "2026-10-13"

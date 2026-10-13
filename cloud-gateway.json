@@ -1,16 +1,13 @@
 {
   "version": "1.0",
-  "activeServer": "https://flowers-resolutions-rpm-isbn.trycloudflare.com",
-  "wsGateway": "wss://flowers-resolutions-rpm-isbn.trycloudflare.com/client",
-  "licenseServer": "https://flowers-resolutions-rpm-isbn.trycloudflare.com",
-  "activeTunnel": "https://manchester-answering-grain-coordinates.trycloudflare.com",
+  "activeServer": "https://216-238-127-241.sslip.io",
+  "wsGateway": "wss://216-238-127-241.sslip.io/client",
+  "licenseServer": "https://216-238-127-241.sslip.io",
+  "activeTunnel": "https://216-238-127-241.sslip.io",
   "fallbackServers": [
+    "https://216-238-127-241.sslip.io",
     "http://2.0.0.52:4000",
-    "http://192.168.0.101:4000",
-    "https://reception-pads-booking-after.trycloudflare.com",
-    "https://stars-match-rabbit-nations.trycloudflare.com",
-    "https://relying-munich-cultural-odds.trycloudflare.com",
-    "https://manchester-answering-grain-coordinates.trycloudflare.com"
+    "http://192.168.0.101:4000"
   ],
   "emergencyNotice": null,
   "updatedAt": "2026-10-13"

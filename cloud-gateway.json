@@ -6,6 +6,7 @@
   "activeTunnel": "https://216-238-127-241.sslip.io",
   "fallbackServers": [
     "https://216-238-127-241.sslip.io",
+    "https://lace-cloudy-citations-shelter.trycloudflare.com",
     "http://2.0.0.52:4000",
     "http://192.168.0.101:4000"
   ],

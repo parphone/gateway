@@ -1,9 +1,9 @@
 {
   "version": "1.0",
-  "activeServer": "https://216-238-127-241.sslip.io",
-  "wsGateway": "wss://216-238-127-241.sslip.io/client",
-  "licenseServer": "https://216-238-127-241.sslip.io",
-  "activeTunnel": "https://216-238-127-241.sslip.io",
+  "activeServer": "https://privilege-selected-lafayette-first.trycloudflare.com",
+  "wsGateway": "wss://privilege-selected-lafayette-first.trycloudflare.com/client",
+  "licenseServer": "https://privilege-selected-lafayette-first.trycloudflare.com",
+  "activeTunnel": "https://privilege-selected-lafayette-first.trycloudflare.com",
   "fallbackServers": [
     "https://216-238-127-241.sslip.io",
     "http://2.0.0.52:4000",

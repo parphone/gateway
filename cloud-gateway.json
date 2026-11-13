@@ -1,14 +1,15 @@
 {
   "version": "1.0",
-  "activeServer": "https://privilege-selected-lafayette-first.trycloudflare.com",
-  "wsGateway": "wss://privilege-selected-lafayette-first.trycloudflare.com/client",
-  "licenseServer": "https://privilege-selected-lafayette-first.trycloudflare.com",
-  "activeTunnel": "https://privilege-selected-lafayette-first.trycloudflare.com",
+  "activeServer": "https://parphonepro.com",
+  "wsGateway": "wss://parphonepro.com/client",
+  "licenseServer": "https://parphonepro.com",
+  "activeTunnel": "https://parphonepro.com",
   "fallbackServers": [
+    "https://parphonepro.com",
     "https://216-238-127-241.sslip.io",
     "http://2.0.0.52:4000",
     "http://192.168.0.101:4000"
   ],
   "emergencyNotice": null,
-  "updatedAt": "2026-11-12"
+  "updatedAt": "2026-11-13T00:35:16.248Z"
 }
